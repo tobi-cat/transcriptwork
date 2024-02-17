@@ -14,6 +14,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - behind-scenes
+  - w-nick-james
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=Pm8VaSZEUkQ)"
@@ -52,78 +53,234 @@ https://xelgot.artstation.com
 
 {% include transcript-start %}
 
-Victory whenever I'm playing OverWatch I've started gravitating toward Soldier
-76 when my favorite killer robot with PTSD Bastion is impr practical I didn't
-play as soldier for the first few years the game was out though but then blizzard the company behind OverWatch
-revealed that Soldier was gay and well I st a gay video game Daddy but did you
-know that gay characters have actually been in video games for over 30 years the first known game to feature a queer
-character at least in the West Was moonmist in 1986 more games like this popped up with queer characters in the
-years to come mainly for the Apple 2 and the Commodore 64 circuits Edge and and Caper and the Castro among them Nintendo
-even got in on it with Berto a character from the American version of Super Mario Brothers 2 who in The Game's manual was
-described as a man who likes dressing up and going by the name of Beretta they've of course done
-everything they can to pretend that this never happened ever since because well Nintendo is going to Nintendo however
-despite Japan's seemingly inherent social conservatism most of the time
-queer characters were actually purposefully censored for the West mostly removing bits of dialogue from
-NPCs in games such as Fantasy Star 2 or Streets of Rage 3 in America only
-adventure and computer games made direct references to queer characters early on but they were often stereotyped the
-first speaking role for a gay character for example was in the FMV game Dracula Unleashed but the character was an over
-pervert so and that's kind of how it stayed for a long time in Western gaming
-even in the late '90s when the industry became dominated by the hyper heterosexualization of characters like
-Duke Nukem and Laura Croft the closest we really came to queer representation
-was straight boys saying that hulking female villains in beat him up games were
-transgender or cloud and address with some very minor examples in computer games that use the presence of a queer
-character to market the game as edgy an adults own we mostly didn't exist in the world of
-pixels and polygons the modern video game industry as a whole was only about 18 years old but it was about to go off
-to college and start to [Music]
-experiment
-[Music] [Applause] [Music]
-[Music]
-Part 1 - Groundbreakers
-early queerness in video games GES wasn't really a thing anybody was asking for Mario saving Princess Peach from
-Bowser was less of a dramatic or narrative option and more just a reason to have you play the game believe it or
-not early video games had relatively little to do with romance options in the
-era of sides scrollers and Platformers the Advent of the RPG and turn-based fighting games meant that narrative
-games didn't have to be done with text commands anymore there was a story sure and yes if romance was a thing it was
-going to be heterosexual and nobody was really fighting for queer rep in these games because queer communities had
-other priorities at the time namely survival and when it did come to queer
-representation activists were pushing for being seen in much more visible media like television and movies so no
-gay developers and Gamers and activists weren't really pushing for queer representation in whatever jrpg you
-remember playing even though we did show up to show our support when the siren called
-[Music] through the gaming generation of Xbox
-and Playstation 2 there was a period of experimentation this is back when moving
-with one thumb stick and aiming with the other was a revolutionary new mechanic this also was roughly the same time that
-home computers became a ubiquitous necessity in households the early 2000s era of game development was when the
-industry was really figuring out how gaming was going to transition to a high fidelity visual experience
-especially now that games could store audio information much more clearly than before leading to game development that
-was able to record dialogue that matched the encroaching photo realism retrospectively developers might have
-argued that each game they produced was highly calculated but it seems to me
-that nobody was really sure of what would be a hit and what would sink these
-five maybe 10 years were met with an influx of games that were indicative of an industry that was still trying to
-figure itself out before the giant corporations started telling them what needed to be popular a large chunk of
-the industry kept trying to use mascot branding to sell e-rated games and wacky characters most of whom would wind up in
-obscurity a sizable chunk was trying to capitalize off of the success of Doom and Duke Nukem and other gritty hyper
-violent video games in an appeal to Gamers who had freshly aged out of needing their parents to buy games for
-them very few were trying to push video games into the realm of interactive realism which is where the industry
-believes games need to be today but before the major gaming companies really began to corporati there were a few
-really weird ways that these developers began pushing the envelope and though it may be a microtransaction machine these
-days few people remember just how much of an impact the Sims had on the gaming world it was a create your character RPG
-RTS without a story there was no narrative no plot no Victory conditions
-there were only game mechanics any story that existed was created by the user and the objective just exist buy expensive
-stuff own property get promoted in your career things that are still only possible in video games for Millennials
-who needs her retirement plan I've got six mansions and a husband in The Sims it's not that games like this didn't
-exist before this it's just that they were simple straightforward either text
-command based or Choose Your Own Adventure and they always had a a continuous driving objective The Sims
-had no objective there was no reason to play the game aside from having a good time by all accounts on paper there was
-no reason for anyone in management to sign off on this game it was too simple to be bankable the growing video game
-Market was leaning towards action Challenge and violence but it turns out
-people really liked being able to live in a house and have several friends and have a job where you could get promoted
-into being an astronaut and somehow in this game it managed to be possible for
-two sexy ripped pixelated men to totally get naked and get in the same bed
-together was it design oversight someone slipping in a code the design philosophy
-of the game was to be as unrestrictive to players as possible so maybe it was just always intended to be there granted
-same gender marriage was impossible but you could form romantic attachments to and move in with same gender characters
-but the chief significance about gayness in The Sims was how little the game cared about whether you did it or not it
-was just there what's even more absurd is the blending of childlike animations mechanics and all-around sense of
+<compare>
+<james {% include timecode %}>
+
+<u>[Cold open of James playing *Overwatch*, cutting between James with the controller and the gameplay. After the "Victory!" screen, it cuts back to James, who adddresses the camera.]</u>
+
+Whenever I'm playing *Overwatch*, I've started gravitating toward Soldier: 76, when my favorite killer robot with PTSD, Bastion, is impractical. I didn't play as Soldier for the first few years the game was out though, but then Blizzard, the company behind *Overwatch*, revealed that Soldier was gay, and well, I stan a gay video game daddy. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But did you know that gay characters have actually been in video games for over thirty years? <msrk>The first known game to feature a queer character, at least in the West, was *Moonmist*</mark> <mark>in 1986.</mark> <mark>More games like this popped up with queer characters in the years to come,</mark> mainly <mark>for the Apple II and the Commodore 64.</mark> <mark>*Circuit's Edge*</mark> and <mark>*Caper in the Castro*</mark> among them.
+
+</james>
+<from>
+
+https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history The Early Years para 2-3
+
+<mark>The earliest known game to feature a homosexual in the United States was the computer game *Moonmist*,</mark> an interactive fiction game <mark>for Apple II, Commodore 64,</mark> and Amiga systems <mark>released in 1986.</mark> <mark>In fact, a lot of early representation came from interactive fiction games,</mark> such as the French only *Le crime du Parking* and <mark>*Circuit's Edge*</mark>, which were similar titles that included gay, lesbian, and, transgendered characters, mostly as villains or side NPCs.
+
+Interestingly enough, there was one underground game that featured more prominent roles for queer characters. <mark>[*Caper in the Castro*](https://lgbtqgamearchive.com/2015/08/23/caper-in-the-castro/)</mark> was a"Charity Ware" game coded by ameuter programmer C. M Ralph in 1988. Specifically for fellow members of the LGBT community in California, Ralph asked those willing to download the title to donate a small amount to any AIDS-related organization of their choosing. The game itself was designed as a tongue-in-cheek murder mystery/puzzle game, filled with inside jokes and crass humor only familiar to the California LGBT community. It is also the first game on record to have a queer protagonist; in this case, the lesbian detective Tracker McDyke.
+
+</from>
+<comment>
+
+James scrambles the article quite a bit, calling *Moonmist* the first Western game with a queer character, when it's the first American game; *Le crime du Parking* was released in 1985, a year earlier, in France. And the two games that James mentions were *not* for the Apple II or Commodore 64, they were for MS-DOS and MacOS, respectively.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Nintendo even got in on it with <mark>Birdo, a character from the American version of *Super Mario Brothers 2*, who in the game's manual was described as a man who likes dressing up and going by the name of Birdetta.</mark> <mark>They've, of course, done *everything* they can to pretend that this never happened ever since</mark> because, well... Nintendo is gonna Nintendo.
+
+</james>
+<from>
+
+https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history First Steps para 2
+
+The in-jokes were mostly minor references that have gotten lives of their own. The most prominent example is <mark>Birdo from *Super Mario Bros. 2*, who in the game's manual was explicitly named as a male who likes "dressing up" and going by the name "Birdetta."</mark> <mark>Nintendo has since downplayed Birdo's gender completely, treating her entirely as a female.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+However, despite Japan's seemingly inherent social conservatism, <mark>most of the time, queer characters were actually purposefully censored for the *West*, mostly removing bits of dialogue from NPCs in games such as *Phantasy Star II* or *Streets of Rage 3*.</mark> <mark>In America, only adventure and computer games made direct references to queer characters</mark> early on, <mark>but they were often stereotyped. The first speaking role for a gay character, for example, was in the FMV game *Dracula Unleashed*, but the character was an overt pervert,</mark> so.
+
+</james>
+<from>
+
+https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history First Steps para 6
+
+<mark>Most of the time, queer characters were actually purposefully censored for the West, mostly removing bits of dialogue from NPCs in games such as *Phantasy Star II* or *Streets of Rage 3*.</mark> <mark>In the West, only adventure and computer games made direct references to queer characters,</mark> <mark>but they were often overtly stereotyped. The first speaking role for a gay character, for example, was the FMV game [*Dracula Unleashed*](https://www.salon.com/2014/04/18/from_a_pink_dinosaur_to_gay_tony_the_evolution_of_lgbt_video_game_characters/), but the character, the co-owner of a bookstore named Alfred Horner, was portrayed as a pervert.</mark> Other games also indirectly referenced a LGBT subtext to character relationships, most notably *The Beast Within: A Gabriel Knight Story* between Gabriel Knight and the villain Baron von Glower, and even Tony from *Earthbound*, with series creator Shigesato Itoi, [confirming it to be the case years later](https://web.archive.org/web/20130602104925/http://gaygamer.net/2013/04/earthbound-and-the-first-gay-tony/).
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And that's kind of how it stayed for a long time in Western gaming. <mark>Even in the late 90s,</mark> when the industry became dominated by the hyper heterosexualization of characters like Duke Nukem and Laura Croft.</mark> The closest we really came to queer representation was straight boys saying that hulking female villains in beat-em-up games were transgender. Or Cloud in a dress. 
+
+</james>
+<from>
+
+https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history The Hypersexuality Era para 1
+
+<mark num=2>The late 1990s</mark> was an odd time when it came to games and sexuality. <mark num=1>It was gaming's adolescent age, the era where hyper-sexualized characters were king. [Lara Croft](https://techraptor.net/content/character-select-more-than-a-sex-symbol-lara-croft)and Duke Nukem</mark> were perhaps the biggest two stars of the era, the runaway sex symbols that defined the attitude of the 1990s, and a growing dependence on action, violence, and sex appeal that made crackpots such as Jack Thompson infamous figures in the gaming industry. It was also an era of sexual pandering, and often queer characters would be caught in the crossfire.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>With some very minor examples in computer games that use the presence of a queer character to market the game as "edgy" and adults only,</mark> we mostly didn't exist in the world of pixels and polygons. The modern video game industry as a whole was only about eighteen years old, but it was about to go off to college and start to experiment.
+
+</james>
+<from>
+
+https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history The Hypersexuality Era para 6
+
+<mark>Queer characters were no longer exclusively on the periphery, with most now being used similar to Hana to help promote a game as "adult" or "edgy"</mark> for their growing audience. At the same time, there was a growing awareness of same-sex relationships, as games moved beyond being just about gameplay and exploring narratives and cinematic-style cutscenes. Most of this stemmed from  player-centric relationships, with the majority being heterosexual. An interesting trend that began in this time period, however, was the use of player-centric relationships to explore queer couplings. While BioWare a decade later would perfect this formula, the beginnings of this can be seen in several games, most notably RPGs, where character sexuality was entirely fluid based upon the needs of the player, versus a strict characterization option of the player's avatar.
+
+</from>
+</compare>
+
+<compare>
+<credits class = "opening">
+
+> James Somerton
+Presents
+
+> Written By
+Nick Herrgott
+& James Somerton
+
+> Produced By
+[Four patron names]
+
+> Produced By
+[Three patron names]
+
+> Art by
+Xelgot
+
+> Executive Producers
+[Three patron names]
+
+> Executive Producers
+[Two patron names]
+
+> Edited By
+James Somerton
+
+> Directed By
+James Somerton
+
+> The <span style="color:#FF00FF">Gay</span>ming Agenda
+
+</credits>
+</compare>
+
+## 01: Groundbreakers
+
+<compare>
+<james {% include timecode %}>
+
+<u>[There are fairy lights obscuring James' camera for some reason.]</u>
+
+Early queerness in video games wasn't really a *thing* anybody was asking for. Mario saving Princess Peach from Bowser was less of a dramatic or narrative option and more just a reason to have you play the game. 
+
+Believe it or not, early video games had relatively little to do with romance options, in the era of side-scrollers and platformers. The advent of the RPG and turn-based fighting games meant that narrative games didn't have to be done with text commands anymore. There was a story, sure, and yes, if romance was a thing, it was going to be heterosexual, and nobody was really fighting for queer rep in these games because queer communities had other priorities at the time, namely survival. 
+
+And when it did come to queer representation, activists were pushing for being seen in much more visible media like television and movies. So no, gay developers and gamers and activists weren't really pushing for queer representation in whatever JRPG you remember playing, even though we did show up to show our support when the siren called.
+
+</james>
+<from></from>
+<clip>
+
+<u>[Unknown clip with singing and dancing.]</u>
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Through the gaming generation of Xbox and Playstation 2, there was a period of experimentation. This is back when moving with one thumb stick and aiming with the other was a revolutionary new mechanic. This also was roughly the same time that home computers became a ubiquitous necessity in households. The early 2000s era of game development was when the industry was really figuring out how gaming was going to transition to a high fidelity visual experience, especially now that games could store audio information much more clearly than before, leading to game development that was able to record dialogue that matched the encroaching photorealism. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Retrospectively, developers might have argued that each game they produced was highly calculated, but it seems to me that nobody was really sure of what would be a hit and what would sink. These five, maybe ten years were met with an influx of games that were indicative of an industry that was still trying to figure itself out, before the giant corporations started telling them what needed to be popular. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+A large chunk of the industry kept trying to use mascot branding to sell E-rated games and wacky characters, most of whom would wind up in obscurity. A sizable chunk was trying to capitalize off of the success of *Doom* and Duke Nukem, and other gritty, hyperviolent video games in an appeal to gamers who had freshly aged out of needing their parents to buy games for them. Very few were trying to push video games into the realm of interactive realism, which is where the industry believes games need to be today. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But before the major gaming companies really began to corporatize, there were a few... really weird ways that these developers began pushing the envelope, and though it may be a microtransaction machine these days, few people remember just how much of an impact *The Sims* had on the gaming world. It was a create-your-character RPG RTS without a story. There was no narrative, no plot, no victory conditions. There were only game mechanics. Any story that existed was created by the user. And the objective? Just exist. Buy expensive stuff, own property, get promoted in your career, things that are still only possible in video games for Millennials. Who needs a retirement plan? I've got six mansions and a husband in *The Sims*. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+It's not that games like this didn't exist before this, it's just that they were... simple.Straightforward. Either text command based or Choose Your Own Adventure. And they always had a a continuous driving objective. *The Sims* had no objective. There was no reason to play the game aside from having a good time. By all accounts on paper, there was no reason for anyone in management to sign off on this game. It was too simple to be bankable. The growing video game market was leaning towards action, challenge and violence, but it turns out, people really liked being able to live in a house, and have several friends, and have a job where you could get promoted into being an astronaut. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And somehow, in this game, it managed to be possible for two sexy, ripped, pixelated men to totally get naked and get in the same bed together. Was it design oversight? Someone slipping in a code? The design philosophy of the game was to be as unrestrictive to players as possible, so maybe it was just always intended to be there. 
+
+</james>
+<from>
+
+The Gay Button 1:56-3:04
+
+During the development of The Sims, the creators flip flopped on whether there should be same sex romance in the game. In the beginning, if the player tried to initiate same-sex flirting, the charcater you were hitting on would slap you. Game designer Don Hopkins developed a system which could include same-sex romance options, making gay, bi and asexual sims. It was still up in the air as to whether they should include this system when a new programmer Patrick J. Barrett III was given an older game document which included same-sex relationships, and not knowing about the debate behind the scenes, he went ahead and worked on that system, reintroducing it into development.
+
+Overall, the company wasn’t happy with The Sims, the game was predicted to flop and was close to   being cancelled. There was a lot of pressure on the developers for the first live demo at the E3 game expo and they were told to make sure the game characters would be on their best behaviour. 
+
+But Barrett’s programming had been forgotten about by the big day and despite all sims being on their best behavior, two women sims had fallen in love  and suddenly started making out on screen! It was a huge deal which got a lot of attention and  launched the game into becoming one of the biggest games of the year. At that point, there was no going back, the public had seen the gayness, developers decided to keep it and the franchise only got gayer with every subsequent title.
+
+</from>
+<comment>
+
+Verity: We talk about how originally *The Sims* had gay content in it sort of by accident. [...] But weirdly James, instead of telling his audience what happened, he says this. Which I feel makes it obvious that he knows what happened on some vague level, but he's decided not to say. But oh it's so--
+
+Ava: What a weirdly specific guess. If someone told you a video game has gay content in it, you wouldn't-- your first thought would not be, "Is that an accident? Did-- was there some code that was put back in by accident?" This is, you know, it's too specific, but for some reason he's not saying what happened, he's just alluding to it in this really silly way.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Granted, same gender marriage was impossible, but you could form romantic attachments to and move in with same gender characters.
+
+But the chief significance about gayness in The Sims was how little the game cared about whether you did it or not it was just there what's even more absurd is the blending of childlike animations mechanics and all-around sense of
 mischievous fun with actual video game Tunes having sex or at least the euphemism The Sims uses for sex woohoo
 in fact in more recent Sims games with the addition of more age brackets even gay teenagers can woohoo and yes gay
 marriage has been added to later games and even more customization around gender and gender Expressions choosing a

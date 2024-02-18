@@ -280,35 +280,33 @@ Ava: What a weirdly specific guess. If someone told you a video game has gay con
 
 Granted, same gender marriage was impossible, but you could form romantic attachments to and move in with same gender characters.
 
-But the chief significance about gayness in The Sims was how little the game cared about whether you did it or not it was just there what's even more absurd is the blending of childlike animations mechanics and all-around sense of
-mischievous fun with actual video game Tunes having sex or at least the euphemism The Sims uses for sex woohoo
-in fact in more recent Sims games with the addition of more age brackets even gay teenagers can woohoo and yes gay
-marriage has been added to later games and even more customization around gender and gender Expressions choosing a
-male or female body type and selecting either or both sets of gendered clothing I have to wonder how things would be
-progressing without the sims' lir approach to gender pairings knowing how
-parent company EA feels about games needing to be as safe as possible to make a profit I don't know whether
-they'd be so open about this same approach if they had to choose now can we really be aware of the doors The Sims
-opened up would we have gay characters in narrative games now if it wasn't for this everyday life simulator 4 years
-later you could find this same attitude toward gay coupling though in an adventure game Fable branded itself as
-well leading up to release they said it would be many things to many people legendarily but it was not which sucks
-because even without the weird lion's head promises it was still a fun ROM kind of Half Baked but fun we couldn't
-do everything lead designer Peter malanu said we could but one thing you could do was be gay in retrospect it seems a
-little problematic you the heroic protagonist never spoke nor did you have a name and anyone who is available for
-marriage was a procedurally generated villager who was generally half as tall as you but still this is a world where
-homophobia didn't exist that was nice the second game was more or less the same but with additional Parenthood
-mechanics and very inconsistent rules about condom use but like I said this depiction did run a little bit shallow
-there's generally no impact to being gay what's whatever and while the fantasy is nice the trilogy of games does follow a
-bloodline so canonical heteronormative Conformity is to be taken for granted
-would have been a bit nicer to have some queerness addressed by the plot wouldn't it maybe even queerness being related to
-the plot one could argue well what were we going to expect for gays in video games what were you looking for Games
-built around gayness what kind of libtard nonsense is that it's not like straightness is a driving component of
-any video games so Kratos an ancient Greek Spartan can literally lay so many
-women he breaks the furniture but we can't have one game where being gay impacts the plot for some reason this
-was a much taller order actually get a fully written gay character who has meaningful contributions to a plot much
-less a fully voiced one and perish the thought of it being a protagonist thus
-Rose the first copout of gays in gaming the gay NPC not even the fem NPC who has
-a few auspicious dialogue interactions in an RPG outside of The Ambiguously Camp Final Fantasy Hench villain we did
-begin to see a rise of core cast secondary characters who were either coded as queer or who very subtly outed
+But the chief significance about gayness in *The Sims* was how little the game cared about whether you did it or not. It was just there. What's even more absurd is the blending of childlike animations, mechanics, and all-around sense of mischievous fun with actual video game toons having sex. Or at least the euphemism *The Sims* uses for sex: WooHoo. 
+
+In fact, in more recent Sims games, with the addition of more age brackets, even gay teenagers can WooHoo. And yes, gay marriage has been added to later games and even more customization around gender and gender expressions, choosing a male or female body type and selecting either or both sets of gendered clothing.
+
+</james>
+<from></from>
+<comment>
+
+Minor nitpick; teenagers were added as an age bracket but could not WooHoo in *The Sims 2* or *The Sims 3*. They technically can't in *The Sims 4* either, but they can "Mess Around", which is essentially the same thing except they keep their clothes on.
+
+</comment>
+
+I have to wonder how things would be progressing without *The Sims*' laissez-faire approach to gender pairings. Knowing how parent company EA feels about games needing to be as safe as possible to make a profit, I don't know whether they'd be so open about this same approach if they had to choose now. Can we really be aware of the doors *The Sims* opened up? Would we have gay characters in narrative games now if it wasn't for this everyday life simulator?
+
+Four years later, you could find this same attitude toward gay coupling, though in an adventure game. *Fable* branded itself as, well, leading up to release they said it would be many things to many people, legendarily, but it was not. Which sucks, because even without the weird Lion's Head<sup class= "add">[sic: Lionhead</sup> promises, it was still a fun romp. Kind of half-baked, but fun. We couldn't do *everything* lead designer Peter Molyneux said we could, but one thing you could do was be gay. 
+
+In retrospect, it seems a little problematic. You, the heroic protagonist, never spoke, nor did you have a name, and anyone who is available for marriage was a procedurally generated villager who was generally half as tall as you. But still, this is a world where homophobia didn't exist. That was nice. 
+
+The second game was more or less the same, but with additional parenthood mechanics. And *very* inconsistent rules about condom use. But like I said, this depiction did run a little bit shallow. there's generally no impact to being gay what's whatever and while the fantasy is nice the trilogy of games does follow a bloodline so canonical heteronormative Conformity is to be taken for granted would have been a bit nicer to have some queerness addressed by the plot wouldn't it maybe even queerness being related to the plot 
+
+<comment>
+
+It's unclear what he means about the "very inconsistent rules about condom use," because the bit of footage he shows is extremely low quality and doesn't really demonstrate anything. The only thing I can think of is the fact that in the game, heterosexual and gay male couples could use condoms, but not lesbian couples.
+
+</comment>
+
+one could argue well what were we going to expect for gays in video games what were you looking for Games built around gayness what kind of libtard nonsense is that it's not like straightness is a driving component of any video games so Kratos an ancient Greek Spartan can literally lay so many women he breaks the furniture but we can't have one game where being gay impacts the plot for some reason this was a much taller order actually get a fully written gay character who has meaningful contributions to a plot much less a fully voiced one and perish the thought of it being a protagonist thus Rose the first copout of gays in gaming the gay NPC not even the fem NPC who has a few auspicious dialogue interactions in an RPG outside of The Ambiguously Camp Final Fantasy Hench villain we did begin to see a rise of core cast secondary characters who were either coded as queer or who very subtly outed
 themselves given the right dialogue options which given that at this point marriage equality was still very much Up
 For Debate in America the fact that we even got this was a pretty pivotal step
 but many of you may be surprised to know that one of the earliest high-profile examples of this came out of Star Wars

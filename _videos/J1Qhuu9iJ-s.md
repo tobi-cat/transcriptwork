@@ -247,7 +247,7 @@ I'm not sure which "history of gay movies" video he's talking about because he's
 <compare>
 <james {% include timecode %}>
 
-Next we have *Cruising* starring Al Pacino which I talked about in I think Monsters in the Closet. It's a pretty good movie, but it is *actually* kind of homophobic? So I feel like I gotta put it down there because it is actually Honestly, Homophobic. I don't think they meant it to be, I think they had good intentions, but it's still not the best. 
+Next we have *Cruising* starring Al Pacino which I talked about in I think Monsters in the Closet. It's a pretty good movie, but it is *actually* kind of homophobic? So I feel like I gotta put it down there because it is actually Honestly, Homophobic. I don't think they meant it to be, I think they had good intentions, but it's still, mmmm, not the best! 
 
 </james>
 <from></from>
@@ -256,7 +256,7 @@ Next we have *Cruising* starring Al Pacino which I talked about in I think Monst
 <compare>
 <james {% include timecode %}>
 
-Next we have a twofer first up is *Dallas Buyers Club* which is all about a straight guy with HIV fighting for the ability to get treatment instead of being a movie about say act up or gay men's health crisis or something like that uh it's about a straight texan and this is one where Jared Leto plays a trans sex worker and of course won an Oscar for it because queer suffering and of course the movie about fighting to get treatment for people with HIV stars the straightest actor in Hollywood I'm putting this in Honestly, Homophobic because it honestly kind of is I don't know if there were any gay people who worked on that movie did you have to cast a cis straight man as a transgender woman did the main character have to be a cis straight man dealing with HIV did it have to be again this is another one of those movies that's obviously made for straight people 
+Next we have a twofer: First up is *Dallas Buyers Club* which is all about a *straight* guy with HIV fighting for the ability to get treatment. Instead of being a movie about say, ACT UP or Gay Men's Health Crisis or something like that, it's about a straight Texan. And this is one where Jared Leto plays a trans sex worker, and of course won an Oscar for it, because queer suffering. And of course the movie about fighting to get treatment for people with HIV stars... the *straightest* actor in Hollywood. I'm putting this in Honestly, Homophobic because it honestly kind of is, I don't know if there were any gay people who worked on that movie! Did you *have* to cast a cis straight man as a transgender woman? Did the main character *have* to be a cis straight man dealing with HIV? Did it have to be? Again, this is another one of those movies that's *obviously* made for straight people. 
 
 </james>
 <from></from>
@@ -265,7 +265,7 @@ Next we have a twofer first up is *Dallas Buyers Club* which is all about a stra
 <compare>
 <james {% include timecode %}>
 
-Which is again like I said a twofer followed up by *The Danish Girl* starring Eddie Redmayne uh again Honestly, Homophobic in this case transphobic because again a man playing a trans woman isn't great because here's a clue here here's some information for people who don't quite get why that's a problem when it comes to trans characters you are telling the audience that this man is pretending he is acting as literally acting as a woman in the story and then people get it in their heads that trans people are just men acting as women or women acting as men that is problematic and that is bad and that is something that we need to stop doing and I think eddie redmayne has actually come out since this movie and said you know if this was being made today I wouldn't take the role maybe you say you wouldn't take the role because you didn't win an Oscar for this one but you know he's still working with joanne so yeah it goes into Honestly, Homophobic 
+Which is again, like I said, a twofer followed up by *The Danish Girl* starring Eddie Redmayne! [groans] Again, Honestly, Homophobic - in this case transphobic - because again a man playing a trans woman isn't great because... Here's a clue, here-- here's some information for people who don't quite get why that's a problem. When it comes to trans characters, you are telling the audience that this man is pretending, he is *acting*, is literally acting as a woman in the story. And then people get it in their heads that trans people are just men acting as women or women acting as men. That is problematic and that is bad and that is something that we need to stop doing, and I think Eddie Redmayne has actually come out since this movie and said you know, "if this was being made today I wouldn't take the role." Maybe you say you wouldn't take the role because you didn't win an Oscar for this one. But, you know! He's still working with *Joanne*. So yeah, it goes into Honestly, Homophobic. 
 
 </james>
 <from></from>
@@ -274,12 +274,12 @@ Which is again like I said a twofer followed up by *The Danish Girl* starring Ed
 <compare>
 <james {% include timecode %}>
 
-Next is *The Life and Death of Marsha P. Johnson* which goes into Slay it's a fantastic documentary about Marsha P. Johnson there should be like an actual Hollywood movie about her at this point but there still isn't it is absolutely worth watching because the history is so important to know because there are so many figures in what we call the gay rights movement who were actually trans women and we give them no credit and it is just huge like trans erasure by not giving these women credit for the things that they did and also again kind of doing *The Danish Girl* thing by saying like oh you know men fought for the gay rights and then you see Marsha P. Johnson and you think oh maybe that's a drag queen no Marsha P. Johnson was a woman that's why I think everyone needs to watch this documentary 
+Next is *The Life and Death of Marsha P. Johnson* which goes into Slay. It's a fantastic documentary about Marsha P. Johnson - there should be like an actual Hollywood movie about her at this point, but there still isn't. It is absolutely worth watching because the history is so important to know because there are so many figures in what we call the gay rights movement who were actually trans women and we give them no credit and it is just huge like trans erasure by not giving these women credit for the things that they did and also again kind of doing *The Danish Girl* thing by saying like, "oh, you know, men fought for the gay rights" and then you see Marsha P. Johnson and you think, "oh, maybe that's a drag queen." No, Marsha P. Johnson was a woman, that's why I think everyone needs to watch this documentary. 
 
 </james>
 <comment>
 
-The movie's actual title is *The Death and Life of Marsha P. Johnson*, because it is focused on an investigation of her death. Also, Marsha P. Johnson *was* a drag queen, as well as trans/gender non-conforming.
+The movie's actual title is *The Death and Life of Marsha P. Johnson*, because it is focused on an investigation of her death. Also, Marsha P. Johnson *was* a drag queen, as well as trans/gender non-conforming. And in the gay liberation movement there were also many lesbian, bisexual, and butch women, alongside people who might have identified as transmasculine today. I really wish Storme DeLarverie's role in Stonewall and other gay rights activism was more recognized. There is a short film about her, though it's not at all well known or accessible. 
 
 </comment>
 <from></from>
@@ -288,7 +288,7 @@ The movie's actual title is *The Death and Life of Marsha P. Johnson*, because i
 <compare>
 <james {% include timecode %}>
 
-Which is followed up oddly by *Disclosure* another Slay which is a documentary that's on Netflix which is about trans representation in media over about the last century which is first of all an incredibly well made documentary but also points out all the problems with with having cis actors playing trans characters and how that can really kind of give the audience the impression that being trans is just acting it gives so much information and such a quick just in such a quick time absolutely worth the watch check it out it's on Netflix everybody has Netflix go watch it 
+Which is followed up oddly by *Disclosure*, another Slay which is a documentary that's on Netflix which is about trans representation in media over... about the last century. Which is first of all, an incredibly well made documentary, but also points out all the problems with-- with having cis actors playing trans characters and how that can really kind of give the audience the impression that being trans is just acting. It gives so much information and such a quick-- just-- in such a quick time. Absolutely worth the watch, check it out, it's on Netflix, everybody has Netflix, go watch it.
 
 </james>
 <from></from>
@@ -297,30 +297,12 @@ Which is followed up oddly by *Disclosure* another Slay which is a documentary t
 <compare>
 <james {% include timecode %}>
 
-Next we have a movie that is little known among the youthful gays *Edge of Seventeen* which is a movie that came out in the 90s but it takes place in the 80s about two boys who fall in love in the 80s lots of awesome the soundtrack is phenomenal I saw this movie on cable when I was really young it was on at like two in the morning I think I was like 10. I just immediately fell in love with it I can't it's been a while since I watched it but it was really good and I had such a crush on the blonde guy he's got bleach blonde hair I had such a crush on him totally worth the watch but I'm gonna put it in Fine because it is very much of the time and so maybe not for everybody but absolutely worth watching especially if you're around my age and it's a movie that you probably should have seen at that time frame you know it's kind of the gay *Never Been Kissed* kind of thing every 12 year old girl saw *Never Been Kissed* but every 12 year old boy did not see edge of 17. so definitely worth watching it now to pick up on it 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Next we have *Everything Everywhere All at Once* which I'm not going to talk too much about it goes into Slay but I'm not going to talk too much better because there is a video coming out dealing with *Everything Everywhere All at Once* I'm just going to say watch it all right 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-So next we have a movie that I'm willing to bet a lot of you actually haven't heard of it's called *Heavenly Creatures* and it was directed by Peter Jackson before *Lord of the Rings* it was actually the movie that convinced New Line Cinema to allow him to make *Lord of the Rings*  it got PJ an Oscar nomination for Best Original Screenplay I think it might have been adapted screenplay but best best screenplay it's just this very sad but beautiful story of two teenage girls kind of falling in love and it's this in New Zealand in the 1950s I think it might be the early 60s but it's that time period the sort of surrealist world they have to create where they can go and be themselves because in the real world everyone is pushing against them it's an incredibly beautiful movie it's Kate Winslet before *Titanic* it's Peter Jackson before *Lord of the Rings* it's absolutely worth watching it is it's a beautiful movie so *Heavenly Creatures*s goes into Fierce 
+Next we have a movie that is little known among the youthful gays, *Edge of Seventeen*, which is a movie that came out in the 90s but it takes place in the 80s, about two boys who fall in love in the 80s. Lots of awesome-- the soundtrack is phenomenal. I saw this movie on cable when I was really young, it was on at like two in the morning, I think I was like 10? I just immediately fell in love with it, I can't-- it's been a while since I watched it, but it was really good and I had such a crush on the blonde guy. He's got bleach blonde hair, I had *such* a crush on him. Totally worth the watch, but I'm gonna put it in Fine because it is very much of the time and so maybe not for everybody, but absolutely worth watching. Especially if you're around my age and it's a movie that you probably should have seen at that time frame. You know, it's kind of the gay *Never Been Kissed* kind of thing. Every 12 year old girl saw *Never Been Kissed*, but every 12 year old boy did not see *Edge of Seventeen*. So definitely worth watching it now to pick up on it. 
 
 </james>
 <comment>
 
-Peter Jackson and his partner Fran Walsh (who co-wrote the screenplay) did receive an Oscar nomination for *Heavenly Creatures* for Best Original Screenplay. Walsh is actually a screenwriter and producer for most of Jackson's films, though she is often forgotten, partly because she is much more private than her partner is. The movie is based on real events that happened in the early 1950s, which culminated in one of the girls killing her own mother. It's a pretty intense movie.
+I've never heard of the other movie James mentions, so I'm not sure what he's talking about exactly.
 
 </comment>
 <from></from>
@@ -329,7 +311,30 @@ Peter Jackson and his partner Fran Walsh (who co-wrote the screenplay) did recei
 <compare>
 <james {% include timecode %}>
 
-Next is *Hedwig and the Angry Inch* which I'm putting into Slay immediately because it is phenomenal I know a lot of people find it a bit problematic because the main character Hedwig is a born a boy and growing up in East Berlin and meets an American military general I think and falls in love but in order to get married and get out of East Berlin has to have gender reassignment surgery which doesn't go over well the angry inch and so it's kind of this weird middle ground of choosing to be trans but not really wanting to be but then accepting the role of the woman and so it's a lot of people find it problematic but the way I kind of look at it now as the creator of *Hedwig*, John Cameron Mitchell has come out as non-binary I kind of see it as more of them exploring that sort of non-binary identity that in between between man and woman it's just fantastic and the music is amazing and John Cameron Mitchell was fantastic in it they got nominated for a Golden Globe but not an Oscar which I feel is just a slap in the face that should have been nominated for an Oscar 
+Next we have *Everything Everywhere All at Once* which I'm not going to talk too much about - it goes into Slay - but I'm not going to talk too much better because there is a video coming out dealing with *Everything Everywhere All at Once*. I'm just going to say... watch it.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Alright, so next we have a movie that... I'm willing to bet a lot of you actually haven't heard of. It's called *Heavenly Creatures* and it was directed by Peter Jackson before *Lord of the Rings*. It was actually the movie that convinced New Line Cinema to allow him to make *Lord of the Rings*<sup cn></sup.> It got PJ an Oscar nomination for Best Original Screenplay I think? It might have been Adapted Screenplay, but best-- best screenplay. It's just this very sad but beautiful story of two teenage girls kind of falling in love and it's this - in New Zealand in the 1950s, I think it might be the early 60s - but it's that time period. The sort of surrealist world they have to create where they can go and be themselves because in the real world everyone is pushing against them. It's an incredibly beautiful movie, it's Kate Winslet before *Titanic*, it's Peter Jackson before *Lord of the Rings*, it's absolutely worth watching. It is-- it's a beautiful movie, so *Heavenly Creatures* goes into Fierce.
+
+</james>
+<comment>
+
+Peter Jackson and his partner Fran Walsh (who co-wrote the screenplay) did receive an Oscar nomination for *Heavenly Creatures* for Best Original Screenplay. Walsh is actually a screenwriter and producer for most of Jackson's films, though she is often forgotten, partly because she is much more private than her partner is. The movie is based on real events that happened in the early 1950s, which culminated in one of the girls killing her own mother. It's a pretty intense movie, it is a horror movie, but James talks about it like it's some sort of cute but sad drama?
+
+</comment>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Next is *Hedwig and the Angry Inch* which I'm putting into Slay immediately because it is *phenomenal*. I know a lot of people... find it... a bit problematic because the main character, Hedwig is a-- born a boy and growing up in East Berlin and meets an American military... general, I think? and falls in love. But in order to get married and get out of East Berlin, has to have gender reassignment surgery, which doesn't go over well - The Angry Inch. And so it's kind of this weird middle ground of choosing to be trans, but not really wanting to be, but then accepting the role of the woman and so it's-- a lot of people find it problematic. But the way I kind of look at it now as the creator of *Hedwig*, John Cameron Mitchell, has come out as non-binary, I kind of see it as more of them exploring that sort of non-- non-binary identity, that in between - between man and woman. It's just fantastic, and the music is amazing, and John Cameron Mitchell was fantastic in it. They got nominated for a Golden Globe but not an Oscar, which I feel is just a slap in the face. It should have been nominated for an Oscar.
 
 </james>
 <from></from>
@@ -343,7 +348,7 @@ Next is *Hedwig and the Angry Inch* which I'm putting into Slay immediately beca
 <compare>
 <james {% include timecode %}>
 
-for the next movie we have another documentary and I'm putting it in Fierce it's called *How to Survive a Plague* which is the story of ACT UP which is basically the reason that treatments for AIDS and HIV actually became available to people they were a nice way of saying it is that they were a protest movement um straight people at the time would maybe even go so far as to call them terrorists but they were not they were a protest movement fighting to make AIDS treatment available and they're the only reason that HIV and AIDS today is considered a very livable disease it's something that if you're diagnosed with it's not a death sentence anymore you take a pill every day and you're probably good and it's because of these people that we got there and the fact that thousands of them had to die literally fighting for their lives before we could get there because the government especially in the United States was so just the government just didn't give a damn and I feel like their story really ought to be told because there are a lot of people who don't know the story of act up and don't know the story of the gay men's health crisis and don't know the story of HIV and AIDS and they just know that it used to kill you and now it doesn't and it's like yeah but the story of how we got there is so important and necessary I feel like a lot of people my age and younger don't appreciate it so much because we came of AIDS after protease inhibitors kind of kicked in really necessary viewing for people who don't know the full context of what was going on in the 80s and early 90s 
+For the next movie we have another documentary, and I'm putting it in Fierce. It's called *How to Survive a Plague* which is the story of ACT UP which is basically the reason that treatments for AIDS and HIV actually became available to people. They were-- a nice way of saying it is that they were a protest movement... straight people at the time would maybe even go so far as to call them terrorists, but they were not, they were a protest movement fighting to make AIDS treatment available. And they're the only reason that HIV and AIDS today is considered a very livable disease. It's something that, if you're diagnosed with, it's not a death sentence anymore. You take a pill every day and you're probably good. And it's because of these people that we got there and the fact that thousands of them had to die literally fighting for their lives before we could get there because the government, especially in the United States, was *so* just-- the government just didn't give a damn. And I feel like their story really ought to be told because there are a lot of people who don't know the story of ACT UP and don't know the story of the Gay Men's Health Crisis and don't know the story of HIV and AIDS, and they just know that it used to kill you and now it doesn't. And it's like yeah, but the story of how we got there is so important and necessary. I feel like a lot of people my age and younger don't appreciate it so much because we came of AIDS after protease inhibitors kind of kicked in? Really necessary viewing for people who don't know the full context of what was going on in the 80s and early 90s.
 
 </james>
 <from></from>
@@ -351,7 +356,7 @@ for the next movie we have another documentary and I'm putting it in Fierce it's
 
 For the record, in 2022, 630,000 people died due to AIDS-related illnesses. This is an improvement from the peak of about 2 million deaths in 2004, but still a significant number of people. It is still a leading cause of death worldwide; in 2019, there were more deaths due to HIV/AIDS than due to suicide. Most of these deaths are in sub-Saharan Africa; for example, in 2019, over 25% of deaths in South Africa were due to AIDS complications. Deaths and infections have continued to decrease as access to treatment improves; in 2010, only about 25% of people living with HIV had access to antiretroviral therapy, compared to 76% in 2022. Another fact to note - globally, 53% of people living with HIV are women or girls.
 
-Even in the United States, people still die due to AIDS - 7000 people in 2019. There were also 67,000 new infections in 2019, the highest number of yearly infections so far. With treatment, people living with HIV have a nearly normal life expectancy, but treatment can be extremely expensive.
+Even in the United States, people still die due to AIDS - 7000 people in 2019. There were also 67,000 new infections in 2019, the highest number of yearly infections so far. With treatment, people living with HIV have a nearly normal life expectancy, but treatment can be extremely expensive and can have serious side effects.
 
 (Sources: https://www.unaids.org/en/resources/fact-sheet, https://ourworldindata.org/hiv-aids)
 
@@ -361,12 +366,14 @@ Even in the United States, people still die due to AIDS - 7000 people in 2019. T
 <compare>
 <james {% include timecode %}>
 
-Next we have *The Imitation Game* which I'm putting into Honestly, Homophobic because we have a person a real life person in Alan Turing who was gay and the movie basically ignores it until the last five minutes and they're like oh and he was chemically castrated by the government has had they focused on his achievements which were amazing achievements in scientific fields and basically won world war ii for the Allies but the movie doesn't really deal with the fact that he won World War II for the Allies for England and then England punished him by chemically castrating him and putting him in a state where he killed himself it very much glosses over it in the end I would have put it into Flop because of that but the writer of the screenplay very vehemently said I this is not a gay movie girl you wrote a movie about a gay man and you are saying it's not a gay movie I am sorry you have mistaken your screenplay for something that it is not and so because of that it goes into Honestly, Homophobic 
+Next we have *The Imitation Game* which I'm putting into Honestly, Homophobic because... we have a person, a real life person in Alan Turing, who was gay and the movie basically ignores it until the last five minutes, and then they're like, "oh, and he was chemically castrated by the government, how sad." They focused on his achievements, which were... amazing achievements in scientific fields and basically won World War II for the Allies, but the movie doesn't really deal with the fact that he won World War II... for the Allies for England and then England punished him by chemically castrating him and putting him in a state where he killed himself. It very much glosses over it in the end. I would have put it into Flop because of that, but the writer of the screenplay very *vehemently* said, I-- this is not a gay movie.<sup cn></sup> *Girl, you wrote a movie about a gay man and you are saying it's not a gay movie, I am sorry you have mistaken your screenplay for something that it is not.* And so because of that it goes into Honestly, Homophobic. 
 
 </james>
 <comment>
 
-What? Wasn't all the stuff that James said they "glossed over" actually in the film? You can criticize the film for not showing gay emotional intimacy, but they did very much show Turing coming out to his fiance, and the police questioning Chomsky about his sexuality, and Chomsky helping the Allies and then what the English government did to him after.
+What? Wasn't all the stuff that James said they "glossed over" actually in the film? You can criticize the film for not showing gay emotional intimacy if you want, but they did very much show Turing coming out to his fiance, and the police questioning Turing about his sexuality, and how poorly the English government treated him. I don't know, I feel like it was a more signifcant part of the film than James implies, even if it was downplayed or not historically accurate. 
+
+Also, I could not find any statement by the screenwriter - or anyone involved, for that matter, claiming that it was "not a gay movie." And, you know, someone can write a movie with a gay (or bisexual, or trans, etc.) protagonist without it being "a gay movie" - shouldn't we be normalizing depictions of gay people where their sexuality, while significant, is not the main focus of the movie? Straight heros get to have that all the time.
 
 </comment>
 </compare>
@@ -374,7 +381,7 @@ What? Wasn't all the stuff that James said they "glossed over" actually in the f
 <compare>
 <james {% include timecode %}>
 
-Next we have *In & Out* which is a comedy from the mid 90s which is about a man who thinks he's straight for most of his life and then realizes he's gay just as he's about to get married and it's kind of about his coming out process and he's uh late 30s early 40s ish so you know he's oh god older oh I feel old now and it did really well in the 90s and was really well liked in the 90s it is very of its time though it is very much a 90s movie so I'm gonna put it in fine because it's not the best movie ever made by any means it's not the best gay movie ever made it's not great but it's worth a watch like if you're bored and you've watched all the other movies on the list that I'm recommending it's worth putting it on to just kind of see where the mindset of Hollywood was when it came to gay people in the mid 90s  
+Next we have *In & Out* which is a comedy from the mid 90s which is about a man who thinks he's straight for most of his life and then realizes he's gay just as he's about to get married, and it's kind of about his coming out process. And he's late 30s, early 40s-ish, so you know, he's-- oh god, older. [pulls his turtleneck up to cover his mouth] Ugh, I feel old now. [back to normal] And it did really well in the 90s and was really well liked in the 90s. It is very of its time though, it is *very* much a 90s movie, so I'm gonna put it in Fine because it's not the best movie ever made by any means. It's not the best gay movie ever made, it's not... great, but it's worth a watch. Like if you're bored, and you've watched all the other movies on the list that I'm recommending, it's worth putting it on to just kind of see where the mindset of Hollywood was when it came to gay people in the mid 90s.  
 
 </james>
 <from></from>
@@ -383,7 +390,7 @@ Next we have *In & Out* which is a comedy from the mid 90s which is about a man 
 <compare>
 <james {% include timecode %}>
 
-Next we have the movie *Kill Your Darlings* which I used a bunch of footage from in the recent Queer Panic video in that section of the Queer Panic video it is the story of that that's what the movie's about it's not a great movie it puts a lot more humanity I think into the character slash real person of Lucien Carr than he had in real life who may or may not be the progenitor of the demon twink but it is a well-made movie and the performances are really good and there's you know a gay sex scene between Dane DeHaan and Daniel Radcliffe so I can't say it's a Flop so I'm going to put it in Fine but maybe seek out a documentary about the murder if you actually want to know what happened and the whole conflict and everything because it's a bit more complicated than the movie portrays
+Next we have the movie *Kill Your Darlings* which I used a bunch of footage from in the recent Queer Panic video. In that section of the Queer Panic video, it is the story of that that's what the movie's about. It's not a *great* movie, it puts a lot more humanity I think into the character slash real person of Lucien Carr than he had in real life, who may or may not be the progenitor of the demon twink. But it is a well-made movie and the performances are really good and there's, you know, a gay sex scene between Dane DeHaan and Daniel Radcliffe so I *can't* say it's a Flop, so I'm going to put it in Fine. But maybe seek out a documentary about the murder if you actually want to know what happened and the whole conflict and everything because it's a bit more complicated than the movie portrays.
 
 </james>
 <from></from>
@@ -392,7 +399,7 @@ Next we have the movie *Kill Your Darlings* which I used a bunch of footage from
 <compare>
 <james {% include timecode %}>
 
-Which is a running theme apparently because the next movie is *King Cobra* which is a highly fictionalized version of the murder of Bryan Kocis I talk about this in my documentary Making it Big it's the story of kind of the drama between Bryan Kocis and Brent Corrigan/Sean Lockhart the movie has some really solid performances in there especially from Garrett Clayton and Christian Slater they do a fantastic job in it Gary Clayton is a lot more built than Brent was at the time considering Brent was legitimately underage during his time working with Bryan it's probably better to have him look a little older but the problem with the movie is that it does not tell the truth it erases real people it kind of moves blame onto different people that weren't to blame it doesn't make Bryan look completely innocent but it kind of goes out of its way to say isn't it sad that he's dead and it's like well it's sad when anyone is murdered but Bryan Kocis was kind of an absolutely trash person the movie really goes out of its way to make it seem like he wasn't I think they were trying to do that in the screenplay phase to get the family to allow them to use his name which they did not anyway that goes into Flop because I know the story of Brent Corrigan/Sean Lockhart very well intimately and I know that there is a much better movie to be made of it than was made in *King Cobra* 
+Which is a running theme apparently because the next movie is *King Cobra* which is a *highly fictionalized* version of the murder of Bryan Kocis. I talk about this in my documentary Making it Big, it's the story of kind of the drama between Bryan Kocis and Brent Corrigan/Sean Lockhart. The movie has some really solid performances in there, especially from Garrett Clayton and Christian Slater, they do a fantastic job in it. Gary Clayton is a lot more... built than Brent was at the time - considering Brent was legitimately underage during his time working with Bryan, it's probably better to have him look a little older. But the problem with the movie is that it does not tell the truth! It erases real people, it kind of moves blame onto different people that weren't to blame, it doesn't make Bryan look completely innocent but it kind of goes out of its way to say, "isn't it sad that he's dead." And it's like, well it's sad when anyone is murdered, but Bryan Kocis was kind of an absolutely trash person. The movie really goes out of its way to make it seem like he wasn't? I think they were trying to do that in the screenplay phase to get the family to allow them to use his name, which they did not anyway. That goes into Flop because I know the story of Brent Corrigan/Sean Lockhart very well, intimately, and I know that there is a *much* better movie to be made of it than was made in *King Cobra*. 
 
 </james>
 <from></from>
@@ -401,7 +408,7 @@ Which is a running theme apparently because the next movie is *King Cobra* which
 <compare>
 <james {% include timecode %}>
 
-So next we have the *Looking* movie which was produced by HBO as a sort of consolation for not giving it a final season it's fine I think the movie is actually better than the show I watched most of the show and I just could not get into it I tried it like I was expecting it to try and be a new Queer as Folk and it was so boring the fact that I got through as much of the show as I did is entirely because of Jonathan Groff but the movie is better than the show and so I'm putting it in Fine it's worth watching if you did watch the show if you haven't watched the show don't bother because it means you have to watch the show to know what's going on in the movie and then I just I don't recommend watching the show 
+So next we have the *Looking* movie which was produced by HBO as a sort of consolation for not giving it a final season. It's Fine, I think the movie is actually better than the show, I watched most of the show and I just could not get into it, I tried it. Like, I was expecting it to try and be a new *Queer as Folk* and it was *so boring*. The fact that I got through as much of the show as I did is *entirely* because of Jonathan Groff. But the movie is better than the show, and so I'm putting it in Fine. It's worth watching if you did watch the show, if you haven't watched the show don't bother because it means you have to watch the show to know what's going on in the movie and then I... I don't recommend watching the show. 
 
 </james>
 <from></from>
@@ -410,7 +417,21 @@ So next we have the *Looking* movie which was produced by HBO as a sort of conso
 <compare>
 <james {% include timecode %}>
 
-Next up we have the very controversial *Love, Simon* based on the book by Becky Albertalli simon in the homo sapien agenda which I really liked the book and at the time I really liked the movie I do think the movie's really cute but it is very much a movie I I think the filmmaker the film the director um I'm pretty sure he was like meant to make a movie for gay teenagers but what it turned into was a movie for teenage girls and their moms to kind of go ah aren't the gays cute and that's what it became on social media so it's it's not a bad movie I'm also annoyed that the the lead actor is ostensibly straight I don't think he's come out one way or the other I think he's kind of remained vague about it you're making a movie with a gay lead character find a gay actor please they made such a big deal of this movie being so gay and it's like you couldn't find a gay actor in all of Hollywood really but I'm gonna put it in fine because it's not a bad movie but if you're kind of older and cynical as I have become since the movie came out you're probably not going to enjoy it 
+Next up we have the [low voice] very controversial [back to normal] *Love, Simon* based on the book by Becky Albertalli, *Simon and the Homo Sapien Agenda*<sup class="add">[sic: *Simon vs. the Homo Sapiens Agenda*]</sup>. Which I really liked the book and at the time I really liked the movie, I do think the movie's really cute, *but* it is very much a movie-- I- I think the filmmaker-- the film-- the director... I'm pretty sure he was like, meant to make a movie for gay teenagers, but what it turned into was a movie for teenage girls and their moms to kind of go, "ah, aren't the gays cute!" and that's what it became on social media. So it's-- it's not a *bad* movie. I'm also annoyed that the the lead actor is ostensibly straight, I don't think he's come out one way or the other, I think he's kind of remained vague about it? You're making a movie with a gay lead character, find a gay actor, please? They made such a big deal of this movie being *so* gay and it's like, you couldn't find a gay actor in all of Hollywood, really? But I'm gonna put it in Fine, because it's not a bad movie, but if you're kind of older and cynical as I have become since the movie came out you're probably not going to enjoy it. [strained laughter]
+
+</james>
+<comment>
+
+James, some teenage girls are also gay teenagers. Fun fact. I was one of the gay teenage girls - I went with my friends from my school's GSA, because we wanted to see a movie that normalized queerness, regardless of our specific sexualities or genders. Was it good? It was cute, it was okay, I liked it but it isn't one of my favorites and I'm not really interested in watching it again. It's not a particularly interesting or complex film, romcoms aren't really my thing and I've aged out of the target demographic in the meantime anyway. But yeah, your misogyny is showing James.
+
+</comment>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Okie dokie, so next we have *Mambo Italiano* which was a Canadian movie made in the early 2000s and kind of aped the *My Big Fat Greek Wedding* thing except it was Italian, even though they actually shared a lot of the same actors for the supporting cast because they were like, "well, Greeks and Italians, they look alike, it's Mediterranean, what's the difference?" And it's a cute movie, like it-- I wouldn't say it's like, peak cinema or anything, but it's worth watching, it's not offensive. Is it as good as *My Big Fat Greek Wedding*? No, but neither was the sequel to *My Big Fat Greek Wedding*. I'm gonna put it in Fine. Fine is the middle of the road and that seems to be where most of the movies are ending up, so that makes sense! So yeah, worth watching if you're looking for something very lighthearted that you can just put on and kind of enjoy and not have to think about too much, and if you want to be exposed to Canadian cinema. Before I do... that. To you. Before I expose you, to Canadian cinema. Sounds so ominous. Anyway!
 
 </james>
 <from></from>
@@ -419,22 +440,13 @@ Next up we have the very controversial *Love, Simon* based on the book by Becky 
 <compare>
 <james {% include timecode %}>
 
-okie dokie so next we have *Mambo Italiano* which was a Canadian movie made in the early 2000s and kind of aped the um *My Big Fat Greek Wedding* thing except it was Italian even though they actually shared a lot of the same actors for the supporting cast because they were like well Greeks and Italians they look alike it's Mediterranean what's the difference and it's a cute movie like it I wouldn't say it's like peak cinema or anything but it's worth watching it's not offensive is it as good as *My Big Fat Greek Wedding* no but neither was the sequel to my big factory wedding I'm gonna put it in Fine Fine is the middle of the road that seems to be where most of the movies are ending up so that makes sense so yeah worth watching if you're looking for something very light-hearted that you can just put on and kind of enjoy and not have to think about too much and if you want to be exposed to Canadian cinema before I do that to you before I expose you to Canadian cinema sounds so ominous 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Anyway next we have a movie from the Czech Republic called *Mandragora* which I accidentally watched when I was a teenager it's it's a long movie it's like three hours long maybe even longer about a teenage sex worker in Prague I believe it's like it's dark as far as like tone it's not dissimilar from *Requiem for a Dream* so if you've seen *Requiem for a Dream* and you're like I can deal with that for three and a half hours and reading subtitles absolutely worth watching because it's actually a phenomenal movie and nobody like hears about this movie I added this to the list because it's really good it's not on any of the lists because they all ignore movies that aren't in English but I added this to the list because it is really good so I'm putting it in Fierce because it is a really really good movie 
+Next we have a movie from the Czech Republic called *Mandragora* which I accidentally watched when I was a teenager. It's-- it's a *long* movie - it's like three hours long, maybe even longer? - about a teenage sex worker in Prague, I believe? It's like, it's dark. As far as like, tone, it's not dissimilar from *Requiem for a Dream*, so if you've seen *Requiem for a Dream* and you're like, "I can deal with that for three and a half hours and reading subtitles!" absolutely worth watching because it's actually a phenomenal movie. And nobody like, hears about this movie, I added this to the list because it's really good, it's not on any of the lists because they all ignore movies that aren't in English, but I added this to the list because it is really good. So I'm putting it in Fierce because it is a really, really good movie. 
 
 </james>
 <from></from>
 <comment>
 
-From what I could find, *Mandragora* is only about 2 hours and 15 minutes long.
+*Mandragora* is only 2 hours and 15 minutes long.
 
 </comment>
 </compare>
@@ -442,7 +454,7 @@ From what I could find, *Mandragora* is only about 2 hours and 15 minutes long.
 <compare>
 <james {% include timecode %}>
 
-Next we have *Maurice* which is the movie that made every gay man in the world fall in love with Hugh Grant and it's really good it's a very it's a very certain type of movie it is um if you've seen any other Merchant if you know what a Merchant Ivory film is you know what the kind of movie I'm talking about it's very slow it's not the most exciting movie in the world but it is really well made and Hugh Grant does a fantastic job in it as a period piece watching a gay story take place pre-1960s it's almost a novelty while watching the movie and so I'm gonna put it in Fierce 
+Next we have *Maurice* which is the movie that made every gay man in the world fall in love with Hugh Grant. And it's really good! It's a very-- it's a very certain *type* of movie. It is... if you've seen any other Merchant-- if you know what a Merchant Ivory film is, you know what Mer-- the kind of movie I'm talking about. It's very slow, it's not the most exciting movie in the world ,but it is really well made and Hugh Grant does a fantastic job in it. As a period piece, watching a gay story take place pre-1960s, it's almost a novelty while watching the movie, and so I'm gonna put it in Fierce. 
 
 </james>
 <from></from>
@@ -451,9 +463,9 @@ Next we have *Maurice* which is the movie that made every gay man in the world f
 <compare>
 <james {% include timecode %}>
 
-The next movie is *Mayor Pete* a documentary about pete butterjudge 
+The next movie is *Mayor Pete* a documentary about Pete Buttigieg. [he silently drags it into Honestly, Homophobic]
 
-the next movie is *Milk* the 2008 film starring sean penn as Harvey Milk directed by Gus Van Sant I loved this movie I haven't watched it since 2010 I think somewhere around there it came out while I was in film school and I saw it five times in theaters and I cried every time the ending of the movie with the candles going down the street I just bawled every time total crying mess I took I went so many times because I just kept taking different people I was in school with to the movie and so I'm putting this in Slay because it is an amazing movie it should have won best picture that year in my humble opinion it's a movie that really makes you wonder okay if Harvey Milk had not been murdered how much further along would gay rights have been not just today but like say in the 80s in the 90s at least in like even even just limiting it to California how much further would gay rights have been in California would it have been 2004 before the mayor of San Francisco said I'm going to start performing same-sex marriages would that have maybe happened in the 80s or the 90s had Harvey Milk been around to kind of be the mouthpiece for the movement that we really needed and never got again really there was never a sort of Martin Luther King figure for the LGBT rights movement and Harvey Milk was kind of being set up to be that figure but died before he could really get a national stage he may have been the first gay person to be elected to Congress at least the first out gay person and of course you have to take into context that would he have lived through the AIDS crisis and all of that but even then you know it's just it's interesting to think about how much further along we might have been had Dan White not apparently eaten too many twinkies and went and killed Harvey Milk and Mayor Moscone that day in San Francisco 
+The next movie is *Milk*, the 2008 film starring Sean Penn as Harvey Milk directed by Gus Van Sant. I loved this movie I haven't watched it since 2010 I think somewhere around there it came out while I was in film school and I saw it five times in theaters and I cried every time the ending of the movie with the candles going down the street I just bawled every time total crying mess I took I went so many times because I just kept taking different people I was in school with to the movie and so I'm putting this in Slay because it is an amazing movie it should have won best picture that year in my humble opinion it's a movie that really makes you wonder okay if Harvey Milk had not been murdered how much further along would gay rights have been not just today but like say in the 80s in the 90s at least in like even even just limiting it to California how much further would gay rights have been in California would it have been 2004 before the mayor of San Francisco said I'm going to start performing same-sex marriages would that have maybe happened in the 80s or the 90s had Harvey Milk been around to kind of be the mouthpiece for the movement that we really needed and never got again really there was never a sort of Martin Luther King figure for the LGBT rights movement and Harvey Milk was kind of being set up to be that figure but died before he could really get a national stage he may have been the first gay person to be elected to Congress at least the first out gay person and of course you have to take into context that would he have lived through the AIDS crisis and all of that but even then you know it's just it's interesting to think about how much further along we might have been had Dan White not apparently eaten too many twinkies and went and killed Harvey Milk and Mayor Moscone that day in San Francisco 
 
 </james>
 <from></from>

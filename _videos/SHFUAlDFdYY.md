@@ -915,7 +915,7 @@ Single gays, therefore, are not cute or wholesome like their gay dad counterpart
 <from></from>
 <comment {% include commenter for= tobi %}>
 
-James shows two pages when he mentions *Midnighter* - the first page is indeed from *Midnighter* #1 and depicts Midnighter's dating profile and the beginning of a date with a man named Jason. [The two hook up but decide to just be friends afterward. After this, Midnighter starts dating a man named Tony (this goes badly.)](https://en.wikipedia.org/wiki/Midnighter_(2015_comic_book)) However, the second page is from *Midnighter and Apollo* and depicts the titular characters, who have gotten back together after breaking up. (In previous comic continuities, the two got married and adopted a kid.)
+James shows two pages when he mentions *Midnighter* - the first page is indeed from *Midnighter* #1 and depicts Midnighter's dating profile and the beginning of a date with a man named Jason. [The two hook up for a night but then decide to not pursue a romantic relationship, staying friends. Shortly after, Midnighter starts dating a man named Matt (who then betrays him and turns out to be a supervillain.)](https://en.wikipedia.org/wiki/Midnighter_(2015_comic_book)) However, the second page is from *Midnighter and Apollo* and depicts the titular characters, who have gotten back together after breaking up. (In previous comic continuities, the two got married and adopted a kid.)
 
 </comment> 
 </compare>
@@ -958,7 +958,7 @@ And that's because when these characters are written, at least most of the time,
 <compare>
 <james {% include timecode %}>
 
-Society convinces us to take what is different and extraordinary about us and try to hide it so that we can be “normal” and “ordinary.” But doing so, we lose what makes us special. We lose our superpower. Because trust me, queer people have superpowers. We have the superior durability to withstand years of torment and abuse. We have the telepathy needed to find each other, no matter where we might be. We have the super-strength needed to fight back against systems set up to crush us. We have the power of mind control, influencing entire societies even when they don't acknowledge that we exist. We have the ability to transform and become the people we were always meant to be. And we have the power of regeneration, to close wounds believed too deep to heal and go on with our lives. Every queer person who gets up in the morning and goes out into the world is a superhero. We may not wear capes, though some of us might, but we accomplish shocking feats. Whether we're out and proud or hidden, surviving in a land that tries to exterminate us, like so many of Marvel's X-Men, we are amazing, astounding, fantastic, spectacular, super. And I think people like that need to show up in comics, or movies, or tv shows. Queer superheroes who are every bit as astounding in everyday life as they are when they're fighting crime or saving the world. It can be done. Maybe that will be the MCU's Billy and Teddy, or maybe it's a hero yet to be created by a queer artist using their power to tell stories. Maybe it's you, because we all have a superpower, and we need to use them to make life a little bit easier for every queer kid across the world who needs a hero to look up to. I know it's a lot to take on, but we have to, because, as a great man once wrote, with great power comes great responsibility.
+Society convinces us to take what is different and extraordinary about us and try to hide it so that we can be “normal” and “ordinary.” But doing so, we lose what makes us special. We lose our superpower. Because trust me, queer people have superpowers. We have the superior durability to withstand years of torment and abuse. We have the telepathy needed to find each other, no matter where we might be. We have the super strength needed to fight back against systems set up to crush us. We have the power of mind control, influencing entire societies even when they don't acknowledge that we exist. We have the ability to transform and become the people we were always meant to be. And we have the power of regeneration, to close wounds believed too deep to heal and go on with our lives. Every queer person who gets up in the morning and goes out into the world is a superhero. We may not wear capes, though some of us might, but we accomplish shocking feats. Whether we're out and proud or hidden, surviving in a land that tries to exterminate us, like so many of Marvel's X-Men, we are amazing, astounding, fantastic, spectacular, super. And I think people like that need to show up in comics, or movies, or tv shows. Queer superheroes who are every bit as astounding in everyday life as they are when they're fighting crime or saving the world. It can be done. Maybe that will be the MCU's Billy and Teddy, or maybe it's a hero yet to be created by a queer artist using their power to tell stories. Maybe it's you, because we all have a superpower, and we need to use them to make life a little bit easier for every queer kid across the world who needs a hero to look up to. I know it's a lot to take on, but we have to, because, as a great man once wrote, with great power comes great responsibility.
 
 </james>
 <from></from>
@@ -967,7 +967,11 @@ Society convinces us to take what is different and extraordinary about us and tr
 <compare>
 <credits {% include timecode %}>
 
-[Brassy outro music. Credits: “Written by: Nick Herrgott & James Somerton. Editing and FX by: James Somerton. Produced by: Hannah M. Curp. Music by: Talekeeper Music, Background Sounds, Lulu Production. Thank you to my patrons. You’re all superheroes!”]
+Written by: Nick Herrgott & James Somerton. 
+Editing and FX by: James Somerton. 
+Produced by: Hannah M. Curp. 
+Music by: Talekeeper Music, Background Sounds, Lulu Production. 
+Thank you to my patrons. You’re all superheroes!”
 
 </credits>
 </compare>
